@@ -1,0 +1,8 @@
+{
+    "files": [
+        "typings/main.d.ts",
+        "lib/Grid.d.ts",
+        "lib/Layout.d.ts",
+        "lib/react-mdl.d.ts"
+    ]
+}
