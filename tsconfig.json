@@ -1,8 +1,7 @@
 {
-    "files": [
-        "typings/main.d.ts",
-        "lib/Grid.d.ts",
-        "lib/Layout.d.ts",
-        "lib/react-mdl.d.ts"
-    ]
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node"
+    }
 }
