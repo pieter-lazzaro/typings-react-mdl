@@ -2,6 +2,6 @@
 
 import * as React from "react";
 
-export declare const Icon: React.ComponentClass<any>;
+declare const Icon: React.ComponentClass<any>;
 
 export default Icon;

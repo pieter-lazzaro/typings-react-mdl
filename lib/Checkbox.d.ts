@@ -2,6 +2,6 @@
 
 import * as React from "react";
 
-declare const Spinner: React.ComponentClass<any>;
+declare const Checkbox: React.ComponentClass<any>;
 
-export default Spinner;
+export default Checkbox;

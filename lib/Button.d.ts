@@ -2,6 +2,6 @@
 
 import * as React from "react";
 
-export declare const Button: React.ComponentClass<any>;
+declare const Button: React.ComponentClass<any>;
 
 export default Button;

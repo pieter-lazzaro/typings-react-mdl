@@ -2,6 +2,6 @@
 
 import * as React from "react";
 
-export declare const Textfield: React.ComponentClass<any>;
+declare const Textfield: React.ComponentClass<any>;
 
 export default Textfield;
